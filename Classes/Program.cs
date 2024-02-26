@@ -6,7 +6,7 @@ namespace Classes
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello, World!");
-            Cars.Cars Car1 = new Cars.Cars();
+            Car Car1 = new Car();
             Car1.Make = "Honda";
             Car1.Model = "Accord";
             Car1.Year = 2020;

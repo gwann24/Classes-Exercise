@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Cars
 {
-    public class Cars
+    public class Car
     {
-        public Cars()
+        public Car()
         {
 
         }
